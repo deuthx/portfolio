@@ -1,2 +1,2 @@
-# portfoliio
-Web Portfolio for Styling Work
+# Devin Schexnayder
+Stylist
