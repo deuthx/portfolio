@@ -2,12 +2,21 @@ body {margin:48px;
       background: #F8F6F2;
       color: #1a1a1a;
       font-family: "Instrument Sans", sans-serif;
+      font-weight:300;
      }
 h1 {
       font-size:2.8rem;
-      font-weight:300;
-      margin: 0;
+      margin: 0 0 6px 0;
 }
 p {
+  margin: 0;
+}
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.header p {
   margin: 0;
 }
