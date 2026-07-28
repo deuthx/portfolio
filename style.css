@@ -25,3 +25,10 @@ a {
   color: #1a1a1a;
   text-decoration: none;
 }
+a {
+  color: inherit;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
